@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two declarations of the Lords and Commons of the Parliament of England: the first, to the Convention of the Estates of Scotland; the second, to the Generall Assembly of the Kirke of Scotland. Together with the severall answers of the Convention of the Estates of Scotland, and of the Generall Assembly of the Kirke of Scotland, to the Parliament of England. Die Mercurii, 13. Septemb. 1643. It is this day ordered by the Commons assembled in Parliament, that the declaration of both Houses of Parliament, to the Convention of the Estates in Scotland, with their answer; the declaration of both houses to the Assembly of the Kirke of Scotland, with their answer; And the letter of the Assembly of Divines, met at Westminster, to the Generall Assembly of the Kirke of Scotland, with the Assemblies answer, shall be forthwith printed and published. Hen. Elsyn. Cler. P. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83532</idno><idno type="EEBO-CITATION">99859066</idno>
+  <idno type="VID">130465</idno>
+  <idno type="EEBO-PROQUEST">2264192877</idno>
+  
+            <idno type="STC">Wing E2388</idno>
+            <idno type="STC">Thomason E67_18</idno>
+            <idno type="STC">Thomason E67_19</idno>
+            <idno type="STC">ESTC R11554</idno>
+            <idno type="PROQUEST">99859066</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859066e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130465)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E67[18], 12:E67[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two declarations of the Lords and Commons of the Parliament of England: the first, to the Convention of the Estates of Scotland; the second, to the Generall Assembly of the Kirke of Scotland. Together with the severall answers of the Convention of the Estates of Scotland, and of the Generall Assembly of the Kirke of Scotland, to the Parliament of England. Die Mercurii, 13. Septemb. 1643. It is this day ordered by the Commons assembled in Parliament, that the declaration of both Houses of Parliament, to the Convention of the Estates in Scotland, with their answer; the declaration of both houses to the Assembly of the Kirke of Scotland, with their answer; And the letter of the Assembly of Divines, met at Westminster, to the Generall Assembly of the Kirke of Scotland, with the Assemblies answer, shall be forthwith printed and published. Hen. Elsyn. Cler. P. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Scotland. Convention of Estates.</author>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Bellamie and Ralph Smith,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The General assemblies answer and declaration to the Parliament of England": p. 10.</note>
+                  <note>"A Declaration of the Lords and Commons in the Parliament of England, to the Genarall Assembly of the Church of Scotland" has separate caption title; register and pagination are continuous.</note>
+                  <note>"A Declaration of the Lords and Commons in the Parliament of England, to the Genarall Assembly of the Church of Scotland" identified as Thomason E.67[19].</note>
+                  <note>Annotation on Thomason copy: "Sept: 16.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Convention of Estates --  Early works to 1800.</term>
+               <term type="corporate_name">Church of Scotland. --  General Assembly. --  Commission.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:130465:1"/>
+            <pb facs="tcp:130465:1"/>
+            <p>TWO DECLARATIONS OF THE LORDS and COMMONS OF THE PARLIAMENT of <hi>ENGLAND:</hi> The first, to the Convention of the E<g ref="char:EOLhyphen"/>states of <hi>SCOTLAND;</hi> The second, to the Generall Assembly of the Kirke of <hi>SCOTLAND.</hi>
+            </p>
+            <p>Together with the severall Answers of the Con<g ref="char:EOLhyphen"/>vention of the Estates of <hi>Scotland,</hi> and of the Gene<g ref="char:EOLhyphen"/>rall Assembly of the Kirke of <hi>Scotland,</hi> to the Par<g ref="char:EOLhyphen"/>liament of <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Mercurii, 13. Septemb. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>It is this day Ordered by the Commons Assembled in Parliament, That the <hi>Declaration of Both Houses of Parliament, to the Convention of the Estates in</hi> Scotland, with their Answer; The <hi>Declaration of Both Houses to the Assembly of the Kirke of</hi> Scotland, with their Answer; And the <hi>Letter of the Assembly of Divines,</hi> met at West<g ref="char:EOLhyphen"/>minster, to the <hi>Generall Assembly of the Kirke of</hi> Scotland, with the Assemblies Answer, shall be forthwith Printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <hi>Hen. Elsyn.</hi> Cler. P. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>Spet: 16.</add> Printed at <hi>London</hi> for <hi>John Bellamie</hi> and <hi>Ralph Smith,</hi> 1643.</p>
+            <pb facs="tcp:130465:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_declaration">
+            <pb n="1" facs="tcp:130465:2"/>
+            <head>A DECLARATION OF THE LORDS And COMMONS OF THE PARLIAMENT of <hi>ENGLAND:</hi> To the Kingdome and Estates OF <hi>SCOTLAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E the Lords and Commons in Parliament being very sensible of the miserable state and condition whereunto this Kingdome and all the other dominions belonging to this Crowne, are falne by this present Warre, which the King hath raised against the Parliament by the instigation of the Popish, Prelatical, and Malignant Partie, doe hereby Declare to our Bre<g ref="char:EOLhyphen"/>thren, the Estates and other Subjects of the Kingdome of <hi>Scotland,</hi> that not onely according to our resolution and promise signified in our former Declarations, Wee have nominated and appointed <hi>Jo.</hi> Earle of <hi>Rutland,</hi>
+               <pb n="2" facs="tcp:130465:3"/> Sir <hi>William Armine,</hi> Baronet, Sir <hi>Henry Vane</hi> junior, Knight, <hi>Thomas Hatcher,</hi> and <hi>Henry Darley,</hi> Esquires, to be Committees and Commissioners of both Houses of Par<g ref="char:EOLunhyphen"/>liament or any three or more of them, for setling all mat<g ref="char:EOLhyphen"/>ters concerning debts and accounts, in which this King<g ref="char:EOLhyphen"/>dome standeth engaged to them; But more especially to desire their present and speedy aid and assistance for secu<g ref="char:EOLhyphen"/>rity of Religion, and liberty of both Kingdomes, for re<g ref="char:EOLhyphen"/>storing and preserving the peace of this Kingdome, and bringing to condigne punishment the subjects of either Kingdome, and all other, who are, and have beene the Authors, Incendiaries, or Actors in this unnaturall War, raised for the alteration of Religion, introducing of Po<g ref="char:EOLhyphen"/>perie, subverting the fundamentall Government of this Land, and for the hinderance of reformation in matters of Religion, being a most effectuall meanes for preserving the peace of both Kingdomes, according to the late Act of Pacification, by which both States stand oblieged to helpe one another; whereof wee assure our selves, our Bre<g ref="char:EOLhyphen"/>thren will make no doubt, if they please to consider, That divers subjects of the Kingdome of <hi>Scotland,</hi> Noble<g ref="char:EOLhyphen"/>men and others, have risen in Armes, and are joyned with the Papists and Prelaticall party here, and are now in actu<g ref="char:EOLhyphen"/>all war against the Parliament and Kingdome of <hi>England;</hi> which being done without consent of the Parliament of <hi>Scotland,</hi> all such persons of that Nation are become Tray<g ref="char:EOLhyphen"/>tors to the Realme of <hi>Scotland,</hi> by that Act of Pacification, and both Kingdomes are bound in repressing their forces by the publike faith of each Kingdome declared in that Act. And we desire our Brethen should take notice, That the said Committees or Commissioners have received
+<pb n="3" facs="tcp:130465:3"/> ample Instructions concerning the proposition of the aid desired, and the satisfaction to be made for the same, with power and authority to agree therein, according to such Instructions as they have, or shall receive from both Houses of Parliament. And therefore wee desire that full credit may be given to them in that behalfe: And because our enemies have already great forces in divers parts of the Kingdome, and doe intend to draw great numbers of Rebells out of <hi>Ireland,</hi> and have solicited for other sup<g ref="char:EOLhyphen"/>plies from forreigne parts; we doe earnestly request our Brethren of <hi>Scotland,</hi> to hasten the aid desired, and to con<g ref="char:EOLhyphen"/>sider, that although in these straits and perplexities of want and danger, they shall not receive such plentifull intertain<g ref="char:EOLhyphen"/>ment, as might at other times be expected; yet they can<g ref="char:EOLhyphen"/>not faile of great honour and advantage by this under<g ref="char:EOLhyphen"/>taking, both in respect of the service therein done to God, whose cause it is, and the dangers and miseries which ther<g ref="char:EOLhyphen"/>by shall be kept from themselves; and they may rest assu<g ref="char:EOLhyphen"/>red that in all opportunities the two Houses of Parliament and this Nation will be ready to expresse their thankful<g ref="char:EOLhyphen"/>nesse for the helpe which they shall receive from them, and their forwardnesse and affection to the peace and pro<g ref="char:EOLhyphen"/>sperity of that Church and Kingdome.</p>
+            <closer>
+               <signed>Signed,
+<list>
+                     <item>
+                        <hi>Ioh. Browne,</hi> Cler. Parl.</item>
+                     <item>
+                        <hi>H. Elsyn.</hi> Cler. P. D. Com.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="declaration_of_the_Convention_of_Estates">
+            <pb n="4" facs="tcp:130465:4"/>
+            <head>THE DECLARATION Of the Convention of Estates in <hi>Scotland,</hi> To the Honorable Houses of the Parliament of <hi>England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Ee have received from the hands of Sir <hi>Willi<g ref="char:EOLhyphen"/>am Armine</hi> Baronet, Sir <hi>Henry Vane</hi> Junior, Knight, <hi>Thomas Hatcher</hi> and <hi>Henry Darley,</hi> Esquires, Committees and Commissioners of the Honorable Houses of the Parliament of <hi>England,</hi> Their Declaration lately sent un<g ref="char:EOLhyphen"/>to us, expressing the present bleeding and distressed estate of that Kingdome; and de<g ref="char:EOLhyphen"/>siring a more neere and strict union between the two Nations for heir mutuall defence against the Papists, the Prelaticall faction and their adherents, together with our present aid and assistance for the reliefe of our Brethren of <hi>England;</hi> remitting all particu<g ref="char:EOLhyphen"/>lars concerning the same to be further communicated to us, by the abovesaid Committees and Commissioners, which particulars have accordingly beene made knowne, both to us and the generall As<g ref="char:EOLhyphen"/>sembly of this Kingdome by the Commissioners of the two Hou<g ref="char:EOLhyphen"/>ses, who have pursued the same with so great wisedome, fidelitie,
+<pb n="5" facs="tcp:130465:4"/> and diligence as hath very much furthered the worke, and de<g ref="char:EOLhyphen"/>serves a very large testimony on their behalfe.</p>
+            <p>Upon serious consideration hereof, We doe declare to these Ho<g ref="char:EOLhyphen"/>norable Houses, that this Kirke and Kingdome are deepely affe<g ref="char:EOLhyphen"/>cted with the sense of the sad calamitous conditions of their Bre<g ref="char:EOLhyphen"/>thren of <hi>England:</hi> And are most ready and willing to contribute their best and utmost endeavours for the preservation of Religion, which is no other then the soule; the Protestant partie, which is the body; our owne lives, who are the members; and the honour and happinesse of the King, who is the head of these kingdomes; All these being in so extreame and imminent danger to be utterly ruined, by the power and policie of the Papists, Prelaticall faction, Malignants, and other adherents, the common enemies of both kingdomes, now raging in Armes as well in <hi>England</hi> as in <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>For further confirmation hereof, we may truely say, that this our Sympathy and willingnesse to have the counsells and courses of both Kingdomes joyned together for the Common safetie of this Iland; as it hath beene often largely expressed and pro<g ref="char:EOLhyphen"/>mised by the severall judicatories of this Kirke and Kingdome: So it will now most evidently appeare, by the results of the Commit<g ref="char:EOLhyphen"/>tees of the Assembly and our Committees with the Commissioners of the Honorable Houses, And by the other Declarations, Letters, and Actions both of Us, and the generall Assembly concerning the nearer union between both Kirkes and Kingdomes, for the mutuall defence against Papists, Prelates, and Malignants, and the most effectuall meanes for the saving of the Religion, King, and Kingdomes from the present dangers, of all which the Commissi<g ref="char:EOLhyphen"/>ners of the two Houses will be the best witnesses, and the Papers themselves the clearest evidences and demonstrations. And seeing the Generall Assembly of this Kingdome doe send into <hi>England</hi> some of their number (men of approved faithfulnesse and abilities) to be Commissioners from them for contributing their best endea<g ref="char:EOLhyphen"/>vours, to encourage the hearts and strengthen the hands of that Kirke and Kingdome in this cause of God against all their present difficulties and distresses, which God in his owne good time and way, will turne into a comfortable calme, and give issue with the temptation.</p>
+            <pb n="6" facs="tcp:130465:5"/>
+            <p> Wee have thought fit hereby to commend the said Commis<g ref="char:EOLhyphen"/>sioners, and any other whom wee shall send with them, to be re<g ref="char:EOLhyphen"/>ceived by the Parliament of <hi>England,</hi> and Assembly of Divines there, with favour and trust, and have given warant to them more large<g ref="char:EOLhyphen"/>ly to expresse the Christian sense and fellow-feeling of this Kirk and Kingdome with their Brethren of <hi>England,</hi> and their willing<g ref="char:EOLhyphen"/>nesse and readinesse to concurre in all good and possible wayes for the common safety of the Kingdomes, and for to satisfie scruples, prevent misapprehensions, and remove difficulties that may occurre in the way of this great worke.</p>
+            <p>And that nothing might be wanting on our part for prosecuting the Common Cause, and answering the expectation and desires of our Brethren of <hi>England,</hi> both the G. Assembly and Convention of Estates, being necessitated to adjourne for the good of the busi<g ref="char:EOLhyphen"/>nesse (the extremity of the dangers requiring speedy prevention) they have given very full and ample Commissions to the Com<g ref="char:EOLhyphen"/>missioners residing at <hi>E.</hi> for to doe every thing that shall be found by common advice necessary and possible for so good ends, being so throughly sensible of the growing evills and miseries, that are ready to over-run our Sister Kirk and Kingdome of <hi>England,</hi> and through their sides to wound us; that we shall not content our selves onely to manifest our affection in Declarations, but when the opportunity serves, so far as lies in us, shall shew forth our selves in every lawfull way suteable to our owne dangers and extremities of our brethren, to whom wee are, and desire yet to be more firm<g ref="char:EOLhyphen"/>ly joyned in so many neere ties and relations.</p>
+            <closer>
+               <signed>Signed, <hi>Arch. Primrose,</hi> Cler. Convent.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
